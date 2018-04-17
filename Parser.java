@@ -93,7 +93,7 @@ public class Parser
 
 	}
 	//DESCRIPTION: Determines command type for parameter
-		//PRECONDITION: determining commad type
+		//PRECONDITION: determining command type
 		//POSTCONDITION:command type has been determined
 		private void parseCommandType()
 		{
